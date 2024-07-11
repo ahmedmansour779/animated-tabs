@@ -8,11 +8,11 @@ type tabsType = {
 }[]
 
 const tabs: tabsType = [
-  { id: "world", label: "World" },
-  { id: "ny", label: "N.Y." },
-  { id: "business", label: "Business" },
-  { id: "arts", label: "Arts" },
-  { id: "science", label: "Science" },
+  { id: "Html", label: "Html" },
+  { id: "Css", label: "Css" },
+  { id: "Java Script", label: "Java Script" },
+  { id: "React.js", label: "React.js" },
+  { id: "tailwind css", label: "tailwind css" },
 ];
 
 function App() {
